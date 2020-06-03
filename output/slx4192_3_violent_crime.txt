@@ -1,0 +1,1 @@
+MSE for predicting the number of violent crime for beats at the week level is : 19.949812598223417

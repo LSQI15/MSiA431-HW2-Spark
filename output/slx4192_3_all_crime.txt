@@ -1,0 +1,1 @@
+MSE for predicting the number of all crimes for beats at the week level is : 48.10435977151558
